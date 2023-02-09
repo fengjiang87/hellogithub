@@ -14,7 +14,7 @@ This is a *ITALIC* word.
 ## Number 3 blockquote
 
 This is to show how a block looks like:      
-> Hi I am a block
+> Hi I am a block.       
 > Hi I am still in block
 >> Hi I am in a block in block
 
